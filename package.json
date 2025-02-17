@@ -6,12 +6,11 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "lint": "eslint .",
-    "preview": "vite preview",
+    "serve": "vite preview",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
-  "homepage": "https://your-github-username.github.io/Country-Flag-Finder/",
+  "homepage": "https://direction44.github.io/Country-Flag-Finder",
   "dependencies": {
     "react": "^19.0.0",
     "react-dom": "^19.0.0",

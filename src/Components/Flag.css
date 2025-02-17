@@ -20,6 +20,16 @@ body {
     max-width: 400px;
     width: 100%;
   }
+  .error-message {
+    color: #d32f2f;
+    background: #ffebee;
+    padding: 12px;
+    border-radius: 5px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 12px;
+    border: 1px solid #d32f2f;
+  }
   
   /* Heading */
   h1 {
@@ -70,7 +80,7 @@ body {
   }
   
   .country-details img {
-    width: 100px;
+    width: 150px;
     height: auto;
     border: 1px solid #ddd;
     border-radius: 5px;
